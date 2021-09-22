@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+<test name="Webdriver">
+<classes>
+<class name="TestNG.NewTest2"></class>
+<class name="TestNG.NewTest3"></class>
+</classes>
+</test>
+</suite>
